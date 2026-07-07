@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:14532d,100:facc15&text=Joyboy-b&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Building%20apps,%20dashboards,%20games,%20and%20data-driven%20tools&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:14532d,100:facc15&text=Marcus-Swa&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Building%20apps,%20dashboards,%20games,%20and%20data-driven%20tools&descAlignY=58&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=FACC15&center=true&vCenter=true&width=760&lines=Software+builder;Data+and+simulation+explorer;Frontend+dashboard+craftsman;Always+shipping+the+next+thing)](https://git.io/typing-svg)
 
 </div>
 
-## Hey, I'm Hideo
+## Hey, I'm Marcus Swa
 
 I like turning ideas into working software: clean dashboards, practical apps, competitive coding tools, simulations, and experiments that make data easier to understand.
 
