@@ -65,21 +65,17 @@ Right now I'm focused on **Python-backed dashboards**, **simulation workflows**,
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joyboy-b&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Marcus%27%20GitHub%20Stats" alt="Marcus GitHub stats">
-    </td>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyboy-b&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Marcus top languages">
-    </td>
-  </tr>
-</table>
-
 <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joyboy-b&theme=github_dark" alt="GitHub contribution summary">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Joyboy-b&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyboy-b&theme=github_dark&utcOffset=-4" alt="Productive coding time">
+<br><br>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyboy-b&theme=github_dark" alt="Repositories by language">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyboy-b&theme=github_dark" alt="Commits by language">
+
+<br><br>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joyboy-b&theme=github_dark" alt="GitHub profile stats">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyboy-b&theme=github_dark&utcOffset=-4" alt="Productive coding time">
 
 </div>
 
